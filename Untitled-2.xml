@@ -1,0 +1,97 @@
+<!doctype html>
+<html>
+<head>
+    <link rel="stylesheet" href="Untitled-1.css">
+    <meta charset="utf-8">
+</head> 
+<body>
+   <div class="header">
+        <ul class="header-list">
+            <li class="inventory"><a href="">INVENTORY</a></li>
+            <li class="blog"><a href="">BLOG</a></li>
+            <li class="gallery"><a href="">GALLERY</a></li>
+            <li class="product"><a href="">PRODUCT</a></li>
+            <li class="home"><a href="">HOME</a></li>
+        </ul>
+    </div>
+        <div class="main">
+            <div class="main-isi">
+                <img class="image" src="logo.webp" alt="">
+                <div class="daftarisi">
+                    <div class="isi">
+                        <p class="full">Full Time</p>
+                        <p class="19">19</p>
+                        <p class="jak">Jakarta</p>
+                        <p class="2">2</p>
+                        <p class="em">email@gmail.com</p>
+                        </div>
+                    <div class="daftar">
+                        <p class="avail">Availability</p>
+                        <p class="usia">Usia</p>
+                        <p class="lok">Lokasi</p>
+                        <p class="peng">Pengalaman</p>
+                        <p class="email">Email</p>
+                    </div>
+                    
+                </div>
+                <div class="profil">
+                        <h1>Nama Anda</h1>
+                        <p class="front">Front End Designer</p>
+                        <a class="kontak" href="">Kontak</a>
+                        <a class="resume" href="">Resume</a>
+                </div>
+            </div>
+        </div>
+    <div class="form">
+        <form action="">
+            <p>
+                <label for="nama">Nama</label>
+                <textarea name="nama" ></textarea>
+            </p>
+            <p>
+                <label for="role">Role</label>
+                <textarea name="role" ></textarea>
+            </p>
+            <p>
+                <label for="availability">Availability</label>
+                <textarea name="availability" ></textarea>
+            </p>
+            <p>
+                <label for="usia">Usia</label>
+                <textarea name="usia" ></textarea>
+            </p>
+            <p>
+                <label for="lokasi">Lokasi</label>
+                <textarea name="lokasi" ></textarea>
+            </p>
+            <p>
+                <label for="years">Years Experience</label>
+                <textarea name="years" ></textarea>
+            </p>
+            <p>
+                <label for="email">Email</label>
+                <textarea name="email" ></textarea>
+            </p>
+            <p>
+                <a class="submit" href="">SUBMIT</a>
+            </p>
+
+
+        </form>
+    </div>
+</body> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

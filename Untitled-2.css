@@ -1,0 +1,110 @@
+.body {
+    margin:0
+}
+
+.header {
+    background-color: white;
+    width: 100%;
+    height: 40px;
+    
+    
+    
+}
+
+.header-list li {
+    list-style-type: none;
+    float: right;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+.header-list a {
+    color: black;
+    display: block;
+    text-decoration-line: none;
+    padding: 10px;
+}
+
+.main {
+    background-color:rgb(214, 214, 214);
+    width: 100%;
+    height: 350px;
+    
+}
+.main-isi {
+    background-color: white;
+    width: 100%;
+    height: 250px;
+    float: left;
+    margin-top: 50px;
+}
+.image {
+    float: left;
+    padding-right: 50px;
+    padding-left: 70px;
+}
+.profil {
+   float:left;
+   padding-right: 70px;
+   
+}
+.profil h1 {
+    margin-top:30px ;
+}
+.profil p {
+    margin-bottom: 70px;
+    color: rgb(105, 105, 105);
+}
+.kontak {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.resume {
+    color: green;
+    border-style: solid;
+    text-decoration: none;
+    margin-left: 5px;
+    padding: 7px 17px;
+    border-radius: 5px;
+}
+
+.daftarisi {
+    float: left;
+    padding-left: 30px;
+    padding-top: 25px;
+    background-color: white;
+}
+.daftar {
+    float: left;
+    margin-right: 50px;
+    
+}
+.isi {
+    float:left;
+    color: rgb(105, 105, 105);
+}
+.form-background {
+    background-color:rgb(214, 214, 214);
+    width: 100%;
+    height: 500px;
+}
+.form {
+    width: 100%;
+    background-color: white;
+}
+.form input{
+    width: 100%;
+}
+.form textarea{
+    width: 100%;
+}
+.submit {
+    width: 100%;
+    background-color:green;
+    padding: 5px 10px;
+    color: white;
+    border-color: white;
+}
